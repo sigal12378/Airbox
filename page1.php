@@ -13,8 +13,8 @@ class Messages {
     
     }
 
-    if(isset($_SESSION['errorMessageffffffff'])) {
-      $out .= "alert('{$_SESSION['errorMessage']}');";
+    if(isset($_SESSION['errorMessagefffhcgfhgfhfffff'])) {
+      $out .= "alert('{$_SESShhhION['errorMeshhhhsage']}');";
       unset($_SESSION['errorMessage']);
     }
 
